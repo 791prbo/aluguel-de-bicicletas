@@ -1,0 +1,14 @@
+# Biblioteca utilizada para manipulação e estruturação de tabelas de dados
+pandas
+
+# Biblioteca para manipulação de arquivos Excel utilizados como base de dados
+openpyxl
+
+# Biblioteca de Machine Learning para treinar e executar o modelo preditivo
+scikit-learn
+
+# Biblioteca para criação da interface visual reativa na web
+streamlit
+
+# Biblioteca para criação de gráficos estatísticos e visuais modernos
+altair
